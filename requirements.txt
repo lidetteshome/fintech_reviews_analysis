@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+google-play-scraper
+spacy
+scikit-learn
+textblob
+vaderSentiment
+transformers
+torch
+oracledb
