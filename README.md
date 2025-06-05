@@ -79,10 +79,10 @@ This week's challenge focuses on **analyzing Google Play Store reviews** for thr
 
 | Task | Description |
 |------|-------------|
-| [Task 1](./scripts/task-1/README.md) | Scrape and preprocess reviews from Google Play Store |
-| [Task 2](./scripts/task-2/README.md) | Perform sentiment analysis and extract review themes |
-| [Task 3](./scripts/task-3/README.md) | Store the cleaned data in an Oracle XE database |
-| [Task 4](./scripts/task-4/README.md) | Visualize insights and derive business recommendations |
+| [Task 1](./notebooks/task-1/README.md) | Scrape and preprocess reviews from Google Play Store |
+| [Task 2](./notebooks/task-2/README.md) | Perform sentiment analysis and extract review themes |
+| [Task 3](./notebooks/task-3/README.md) | Store the cleaned data in an Oracle XE database |
+| [Task 4](./notebooks/task-4/README.md) | Visualize insights and derive business recommendations |
 
 ---
 
