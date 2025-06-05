@@ -10,3 +10,4 @@ vaderSentiment
 transformers
 torch
 oracledb
+wordcloud
